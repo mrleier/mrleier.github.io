@@ -4029,7 +4029,7 @@
 			width: 2.25em;
 		}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 2000px) {
 
 			#banner {
 				padding: 21em 0 11em 0;
