@@ -4106,6 +4106,11 @@
 
 /* Main */
 
+
+	.map {
+		margin-bottom: 4em;	
+	}
+
 	.address {
 		text-align: center;
 		
