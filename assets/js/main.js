@@ -56,7 +56,7 @@
 			$('.gallery').each(function() {
 
 				var	$gallery = $(this),
-					$content = $gallery.find('.content');
+					$content = $gallery.find('.image-grid');
 
 				// Poptrox.
 					$content.poptrox({
