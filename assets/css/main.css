@@ -4235,6 +4235,13 @@
 			width: 75%;
 		}
 
+		#footer .extra {
+			padding: 5em 0 5em 0;
+			border-top: solid 1px rgba(255, 255, 255, 0.1);
+			margin: 0 auto;
+			width: 75%;
+		}
+
 		#footer ul.icons li {
 			padding-right: 2.5em;
 		}
