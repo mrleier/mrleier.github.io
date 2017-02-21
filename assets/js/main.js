@@ -60,7 +60,8 @@
 			  fade: true,
 			  cssEase: 'linear',
 			  centerMode: true,
-                          variableWidth: true
+                          variableWidth: true,
+			  adaptiveHeight: true
 			});
 
 		
