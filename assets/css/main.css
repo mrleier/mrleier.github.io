@@ -2819,6 +2819,11 @@
 				padding: 2em 2em 0.1em 2em;
 				width: 100%;
 			}
+			
+			
+			
+			
+			
 
 		}
 
@@ -2832,6 +2837,16 @@
 					padding: 2em 1em 0.1em 1em;
 				}
 
+			
+			.featurer .image {
+				width: 100%;
+				}
+
+				.featurer .image img {
+					max-width: 100%;
+				}
+
+			
 		}
 
 
