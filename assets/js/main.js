@@ -59,9 +59,8 @@
 			  speed: 500,
 			  fade: true,
 			  cssEase: 'linear',
-			  centerMode: true,
                           variableWidth: true,
-			  adaptiveHeight: true
+			  width: 50%
 			});
 
 		
