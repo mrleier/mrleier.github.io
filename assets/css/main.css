@@ -2722,6 +2722,27 @@
 	 }
 
 
+	.featurer {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		margin-bottom: 1em;
+	}
+
+
+	.featurer .image {
+			width: 48%;
+		}
+
+			.featurer .image img {
+				max-width: 100%;
+			}
+
 	.feature {
 		display: -moz-flex;
 		display: -webkit-flex;
