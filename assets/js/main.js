@@ -53,7 +53,7 @@
 					side: 'right'
 				});
 		
-		$('.fade').slick({
+		$('.caro').slick({
 			  dots: true,
 			  infinite: true,
 			  speed: 500,
