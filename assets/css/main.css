@@ -2721,6 +2721,16 @@
 	    width: 50%;
 	 }
 
+	
+	
+	.slick-slide .image {
+			width: 65%;
+		}
+
+			.slick-slide .image img {
+				max-width: 100%;
+			}
+
 
 	.featurer {
 		display: -moz-flex;
