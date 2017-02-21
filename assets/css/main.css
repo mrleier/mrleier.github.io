@@ -2716,6 +2716,12 @@
 
 /* Feature */
 
+	.center {
+	    margin: auto;
+	    width: 50%;
+	 }
+
+
 	.feature {
 		display: -moz-flex;
 		display: -webkit-flex;
