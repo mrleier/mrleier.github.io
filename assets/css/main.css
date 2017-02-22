@@ -2840,6 +2840,10 @@
 
 		@media screen and (max-width: 736px) {
 
+			.center1 {
+	    			margin: auto;
+	    			width: 75%;
+	 		}
 			.feature {
 				margin-bottom: 2em;
 			}
@@ -3666,6 +3670,9 @@
 
 		@media screen and (max-width: 736px) {
 
+			.wrapper > .inner {
+					width: 75%;
+				}
 			.wrapper {
 				padding: 3em 2em 1em 2em;
 			}
@@ -3673,7 +3680,10 @@
 		}
 
 		@media screen and (max-width: 480px) {
-
+			.wrapper > .inner {
+					width: 75%;
+				}
+			
 			.wrapper {
 				padding: 2em 1em 0.1em 1em;
 			}
