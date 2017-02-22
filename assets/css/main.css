@@ -2722,6 +2722,11 @@
 	    width: 50%;
 	 }
 
+	.center1 {
+	    margin: auto;
+	    width: 75%;
+	 }
+
 
 			.slick-slide img {
 				max-width: 75%;
