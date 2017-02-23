@@ -2928,11 +2928,16 @@
 		}
 
 /* Wrapper */
+	.wrapper.special{
+		padding: 5em 0 6em 0;
+		position: relative;
+	}
 
 	.wrapper {
 		padding: 8em 0 6em 0;
 		position: relative;
 	}
+	
 
 		.wrapper > .inner {
 			margin: 0 auto;
