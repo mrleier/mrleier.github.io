@@ -1811,6 +1811,7 @@
 
 	section.special, article.special, header.special {
 		text-align: center;
+		margin: 4em 0 2em 0;
 	}
 
 	header p {
