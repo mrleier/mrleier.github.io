@@ -1,5 +1,3 @@
-$("iframe").contents().find(".tabDashboard");
-console.log($("iframe").contents());
 var m = [20, 120, 20, 50],
     w = 680 - m[1] - m[3],
     h = 600 - m[0] - m[2],
