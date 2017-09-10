@@ -1,3 +1,4 @@
+<script src="//d3js.org/d3.v4.min.js"></script>
 var m = [20, 120, 20, 50],
     w = 680 - m[1] - m[3],
     h = 600 - m[0] - m[2],
